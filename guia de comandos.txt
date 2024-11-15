@@ -1,0 +1,20 @@
+git init
+
+
+
+git remote add origin https://github.com/Rosifaarias/Introducao-Git.git
+git branch -M main
+git push -u origin main
+
+
+* git init => criar o repositório local
+* git remote add o origin -> 'link do github'
+
+* git add . (para ir tudo que está dentro da pasta)
+
+* git commit -m "mensagem de commit que vc quer"
+* git push origin main (empurra para git remeote)
+
+
+
+
